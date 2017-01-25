@@ -26,11 +26,11 @@ https://github.com/RenYamagami/TechLearningForSphere/blob/master/GifFile/Mistake
 
 ## Fifth Mistaken Sphere
 
-![uei](https://github.com/RenYamagami/TechLearningForSphere/blob/master/GifFile/RandomSphere.gif "uei")
+![uei](https://github.com/RenYamagami/TechLearningForSphere/blob/master/GifFile/MistakenSphere.gif "uei")
 
 ## Sixth Random Sphere
 
-![uei](https://github.com/RenYamagami/TechLearningForSphere/blob/master/GifFile/RandomCircle.gif "uei")
+![uei](https://github.com/RenYamagami/TechLearningForSphere/blob/master/GifFile/RandomSphere.gif "uei")
 
 
 
