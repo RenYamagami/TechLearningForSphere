@@ -11,6 +11,8 @@ https://github.com/RenYamagami/TechLearningForSphere/blob/master/GifFile/Mistake
 
 ![uei](https://github.com/RenYamagami/TechLearningForSphere/blob/master/GifFile/SimpleCircle.gif "uei")
 
+![uei](https://github.com/RenYamagami/TechLearningForSphere/blob/master/Assets/TechLearning/Scripts/Sphere1.cs "uei")
+
 ## Second Rotation Circle
 
 ![uei](https://github.com/RenYamagami/TechLearningForSphere/blob/master/GifFile/RotationSphere.gif "uei")
